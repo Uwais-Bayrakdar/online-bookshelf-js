@@ -121,6 +121,10 @@ body.dark-mode .search-book-input {
   border-radius: 4px;
 }
 
+body.dark-mode .better-spacing {
+    color: #121212;
+}
+
 /* === 📱 Small Devices (Phones) === */
 @media (max-width: 600px) {
   .container {
